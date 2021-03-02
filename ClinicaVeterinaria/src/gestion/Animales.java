@@ -2,13 +2,13 @@ package gestion;
 
 import java.io.Serializable;
 
-public class Animal implements interfazAnimal{
+public class Animales implements interfazAnimal{
 
 	private long ID;
 	protected int edad;
 	protected String raza;
 
-	public Animal() {
+	public Animales() {
 		super();
 	}
 
