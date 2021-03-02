@@ -11,6 +11,8 @@ import gestion.*;
  */
 public class ClinicaVeterinaria {
 
+	// Se me olvido hacer el primer commit
+	
     private static final String EXCEPCIONENTERO = "Has causado una excepci�n porque no has entrado un n�mero entero, gracias";
 
 	/**

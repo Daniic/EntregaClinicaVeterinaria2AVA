@@ -7,8 +7,12 @@ import java.io.Serializable;
  * @author xavier
  */
 public class Cerdo extends Mascota{
+	
+	//Jaja
+	
+	
     //ATRIBUTOS
-    private float peso;
+    private float peso; 
     
     //CONSTRUCTOR
     /**
